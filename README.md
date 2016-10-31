@@ -1,2 +1,2 @@
 # hello-world
-everyone starts somewhere
+I did the intro tutorial.
